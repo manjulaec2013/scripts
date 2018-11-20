@@ -6,4 +6,5 @@ $i++;
 if($i==3)break;
 }
 echo "loop stopped at i=$i";
+echo "testing";
 ?>
